@@ -14,7 +14,7 @@ When it comes to OCR, EasyOCR is by far the most straightforward way to apply Op
     *From there, all you need is two lines of code to perform OCR — one to initialize the Reader class and then another to OCR the image via the readtext function.
     
 # Want to see demo video of my project?
-# LinkedIN- 
+# LinkedIN- https://www.linkedin.com/feed/update/urn:li:activity:7148938456797224961/
 
 # Libraries/Modules used for the project!
 
